@@ -1,3 +1,14 @@
+# Snow-blower
+!secrets/.env*
+.sb*
+secrets.nix
+
+# pre-commit
+.pre-commit-config.yaml
+
+# direnv
+.direnv
+
 .idea
 .phpunit.result.cache
 build
